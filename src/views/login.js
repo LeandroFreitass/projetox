@@ -48,11 +48,6 @@ export default function Login({ onLogin }) {
     </View>
   );
 }
-//41753020230823004003
-// cid correto com a patologia correta
-// relatorios de justificativa para continuar o tratamento com cid e especifidades
-// realtorio do teralpeuta esplicando motivo que deve continuar
-// avenida andrade neves 19915 17:20
 
 const styles = StyleSheet.create({
   container: {
